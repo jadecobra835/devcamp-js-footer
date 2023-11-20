@@ -1,5 +1,5 @@
 {
-  "name": "devcamp-js-footer",
+  "name": "xander-jensen-devcamp-js-footer",
   "version": "0.1.0",
   "description": "This module allows for a dynamic footer to be generated for JS applications with an updated year and name.",
   "main": "index.js",
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/jadecobra835/devcamp-js-footer.git"
+    "url": "git+https://github.com/jadecobra835/xander-jensen-devcamp-js-footer.git"
   },
   "keywords": [
     "footer"
@@ -16,9 +16,9 @@
   "author": "Xander Jensen <2xanderjensen@gmail.com> (https://www.npmjs.com/~xander-jensen)",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/jadecobra835/devcamp-js-footer/issues"
+    "url": "https://github.com/jadecobra835/xander-jensen-devcamp-js-footer/issues"
   },
-  "homepage": "https://github.com/jadecobra835/devcamp-js-footer#readme",
+  "homepage": "https://github.com/jadecobra835/xander-jensen-devcamp-js-footer#readme",
   "dependencies": {
     "moment": "^2.29.4"
   }
